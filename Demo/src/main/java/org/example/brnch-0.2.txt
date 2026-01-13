@@ -1,3 +1,2 @@
-AGAIN
-branch 2 yaradildi ve gonderildi
+Ali yeni desihikliyik etdi. BRNCH-0.2
 
